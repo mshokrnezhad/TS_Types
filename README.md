@@ -1,2 +1,2 @@
 # TS_Types
-A Brief Review of TypeScript Types
+A brief review of TypeScript types
